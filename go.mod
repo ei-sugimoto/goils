@@ -1,6 +1,6 @@
 module github.com/ei-sugimoto/goils
 
-go 1.21.10
+go 1.22.5
 
 require (
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
